@@ -1,4 +1,4 @@
-const baseUrl = "http://localhost:5000";
+const baseUrl = "https://ecommercealgeria.herokuapp.com";
 
 export const api = `${baseUrl}/api`;
 
